@@ -1,2 +1,1 @@
-# Data-Science
-Learning about data science
+﻿﻿﻿# Data-Science（数据科学）## pandas## numpy## python流畅的python目录 | 描述---|---数据预处理 | 数据预处理row 2 col 1 | 特征选择example | 简单的实例## scikit-learn简介：scikit-learning 是机器学习的常用库目录 | 描述---|---数据预处理 | 数据预处理row 2 col 1 | 特征选择example | 简单的实例## kaggle简介：kaggle是流行的机器学习竞赛目录 | 描述---|---titanic | 泰坦尼克生存问题（二分类问题)house-price | 房价预测（回归问题） ## 天池目录 | 描述---|---tianchi-meadical | 精准医疗-血糖预测（回归问题）## command-lines### linux### conda### markdown### git
