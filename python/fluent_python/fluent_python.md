@@ -1,6 +1,6 @@
 # fluent_python
 this is a repository for book 《flunent python》
-![book](https://github.com/lizhe960118/Data-Science/raw/master/images/fluent_python.jpg)
+![book](https://github.com/lizhe960118/Data-Science/raw/master/images/fluent-python.jpg)
 
 目录 | 描述
 ---|---
