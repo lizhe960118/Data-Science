@@ -44,8 +44,8 @@ git remote rm origin<repository> | 删除远程仓库
 ## 历史记录
 命令|描述
 --|--
-git log --oneline | 了解本地仓库的历史记录
-
+git log --pretty=oneline | 了解本地仓库的历史记录
+git stash <br> git rebase -i| 修改git的历史记录，移除相应的commit结点
 
 ## 版本更新
 命令|描述
