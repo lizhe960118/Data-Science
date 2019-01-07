@@ -22,3 +22,23 @@ if __name__ == '__main__':
     list_test = [2, 5, 1, 6, 8, 7, 3, 4]
     quick_sort(list_test, 0, len(list_test) - 1)
     print(list_test)
+
+
+# def quick_sort(arr, frist_index, last_index):
+#     if frist_index < last_index:
+#         q = parition(arr, frist_index, last_index)
+#         quick_sort(arr, frist_index, q)
+#         quick_sort(arr, q, last_index)
+#      else:
+#          return
+
+# def parition(self, arr, frist_index, last_index):
+#     i = frist_index - 1
+#     for j in range(frist_index, last_index):
+#         if arr[j] < :
+#             i = i+1
+#             arr[i], arr[j] = arr[j], arr[i]
+#    arr[i+1], arr[last_index] = arr[last_index] , arr[i+1]
+#    return i
+ 
+# quick_sort(arr, 0, len(arr))
